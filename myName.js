@@ -1,2 +1,3 @@
 let myName = "Moustapha";
-console.log(`My name is ${myName} and I am well!`);
+let myStr = "My name is "+ myName + " and i am well";
+console.log(myStr);
